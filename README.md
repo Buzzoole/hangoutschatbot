@@ -1,5 +1,7 @@
 # Hangouts Chat Bot
 
+[![CircleCI](https://circleci.com/gh/AppsterdamMilan/hangoutschatbot.svg?style=svg)](https://circleci.com/gh/AppsterdamMilan/hangoutschatbot)
+
 An Hangouts Chat bot, written in Go 🤖
 
 ## What it is
